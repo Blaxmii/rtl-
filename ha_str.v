@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module ha_str(
+module fa_str(
     input a,
     input b,
     input c,
